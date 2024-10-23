@@ -1,0 +1,6 @@
+@MappingByAutoMapper_HostAddress = http://localhost:5084
+
+GET {{MappingByAutoMapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
